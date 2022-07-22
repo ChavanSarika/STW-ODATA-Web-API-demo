@@ -1,5 +1,5 @@
 # Project Title
-STW-Spark
+STW ODATA Web API demo
 
 # Description
 This application is ASP.NET Core Web API application and it is under development.
